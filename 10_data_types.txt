@@ -1,0 +1,28 @@
+int x = 5;
+
+int is a data type (integer)
+
+C++ does static type to every variables
+at compilation
+
+-- intergral
+int
+
+-- char (characters)
+strings
+
+-- floating point (fractional numbers)
+double
+
+-- bool (True / False)
+
+-- arrays (multiple data of a type)
+
+-- classes (group variables and functions of a specific structure)
+
+-- structs (like classes)
+
+vectors
+pointers
+unions
+enumerations

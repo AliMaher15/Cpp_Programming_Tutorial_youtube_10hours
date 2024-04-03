@@ -1,0 +1,11 @@
+// Integral datatypes
+// signed vs unsigned
+
+int
+-- 32 bits or 16 bits (depends on system)
+-- negative numbers use 2's complement
+-- which cuts 1 bit (sign bit)
+
+if using signed number max number will be 
+cut in half because half is positive
+and other half is negative
