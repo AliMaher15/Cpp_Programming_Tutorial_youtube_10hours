@@ -1,0 +1,26 @@
+for array you either
+
+int items[] = {12, 13}
+or 
+int items[20]
+
+it has static value
+
+for vector
+
+std::vecotr<int> items;
+
+called lists or array lists in other languages
+
+can be 
+std::vector<int> items={12, 13};
+items.push_back(100); // add 100 to the vector
+// it will re-allocate memory automatically
+
+vectors actually know their size
+items.size() // 3
+// to get last element
+items[items.size()-1]
+
+the <int>
+is like generic class to pass the type to a class
