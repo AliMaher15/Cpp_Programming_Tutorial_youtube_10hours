@@ -22,4 +22,11 @@ int main()
         std::cout << n << "\t";
     }
     std::cout << std::endl;
+    // Note: when using the normal array type
+    // the range based only works for arrays
+    // inside the function it was declared
+    // and not when based around as it will give
+    // the size of array pointer warning
+    // so better when pass it to another function
+    // use vector or STL array
 }
