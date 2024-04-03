@@ -1,0 +1,11 @@
+function signature:
+name
+number of arguments
+types of arguments
+
+void do_stuff (int x)
+void do_stuff (std::string x)
+
+double area(int length)
+double area(int length, int width)
+double area(Rectangle regtangle)

@@ -1,0 +1,19 @@
+1- header file (.h)
+2- implementation file (.cpp)
+3- main file (.cpp)
+
+header file will be included
+in both .cpp files
+
+will make a pre-processor director to include
+the header file only once
+
+#ifndef CUSTOM_H
+#define CUSTOM_H
+
+// header file content
+
+#endif
+
+to compile:
+g++ file1.cpp file2.cpp

@@ -3,7 +3,6 @@
 
 int main()
 {
-    // size of how many collections must be added
     std::vector<std::vector<int>> grades =  
     {
         {1, 2}, 
