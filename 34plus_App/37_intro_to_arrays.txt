@@ -1,0 +1,19 @@
+there is multiple types
+
+array
+vector
+templatized array
+
+## Array :
+statically sized
+
+int guesses [] // can take a size inside
+int guesses [100]
+first elemente has an index of 0
+last element has an index of size-1
+
+## Vectors :
+like a dynamic array (dynamically sized)
+
+## templatized array:
+an array wraped inside an object

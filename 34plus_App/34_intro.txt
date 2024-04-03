@@ -1,0 +1,10 @@
+the menu:
+0: quit
+1: play
+using do-while and switch
+
+the game is to generate a random number
+the user needs to guess
+
+to guess will use a while loop and 
+if statement to break out
