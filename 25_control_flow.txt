@@ -1,0 +1,34 @@
+Control Flow:
+- branching
+- looping
+
+# branching:
+if
+switch
+
+# looping:
+while
+for
+do-while
+
+if(expression) -> T/F(boolean)
+{
+    // code if true
+} 
+else
+{
+    // code if false
+}
+
+switch(age) // switch only use int type
+{
+    case 17:
+        // code
+        break;
+    case 18:
+        // code
+        break;
+    default:
+        // code
+        break;
+}
