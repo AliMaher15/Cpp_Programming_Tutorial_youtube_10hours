@@ -7,7 +7,7 @@ struct Rectangle
     double width;
 };
 
-// Advice, do default arguments first
+// Advice: do default arguments on the right
 double pow(double base, int pow = 2)
 {
     int total = 1;
